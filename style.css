@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  background-color: aqua;
+  color: black;
+}
+
+/* navbar ko style kara ga */
+
+.image {
+  height: 35px;
+  padding: 2px;
+}
+
+.container {
+  height: 500px;
+}
+
+form {
+  margin-top: 40px;
+  height: 500px;
+}
